@@ -1,0 +1,12 @@
+Caesar Cipher Decipher
+
+El Caesar Cipher es un metodo de sustitución donde cada letra es reemplazada X lugares del alfabeto. Por ejemplo si X=2 , entonces A sería C y I sería K.
+Notas:
+1. Vamos a suponer que estamos usando el abecedario en ingles, es decir, sin la ñ.
+
+Crear un script que descifre un mensaje encriptado usando el Caesar Cipher para revelar el contenido.
+Tener en cuenta lo siguiente:
+1. Validar que se ingrese solo letras y sean en minúsculas.
+2. No conocemos el valor de X.
+
+Frase a descifrar:olqx hv hvshfwdfxodu 
